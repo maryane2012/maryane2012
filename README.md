@@ -9,6 +9,6 @@ _Meu nome é Maryane Cordeiro_ 🐑
 
   maryane.cordeiro@escola.pr.gov.br 📧
 
-   @m__aryane📱
+   @m__aryane - [instagram](https://www.instagram.com.br)
 
    ![](https://media.tenor.com/W_iZ7rzeL9MAAAAC/hi-hello.gif)
