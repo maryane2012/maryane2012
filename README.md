@@ -1,7 +1,7 @@
-### Bem vindo ao meu perfil 🤍
-_Meu nome é Maryane Cordeiro_
+### Bem vindo(a) ao meu perfil 🤍
+_Meu nome é Maryane Cordeiro_ 🐑
 
-- Estou estudando na ![Alura](https://www.alura.com.br)
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript.
 - Utilizo esse espaço para a organização e compartilhamento dos meus projetos desenvolvidos.
 
@@ -10,5 +10,4 @@ _Meu nome é Maryane Cordeiro_
   maryane.cordeiro@escola.pr.gov.br
 
   @m__aryane 
-  
-![](https://tenor.com/pt-BR/view/hi-hello-hasbulla-gif-24313799)
+  ![](https://media.tenor.com/W_iZ7rzeL9MAAAAC/hi-hello.gif)
